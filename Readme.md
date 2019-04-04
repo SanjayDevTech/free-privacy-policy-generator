@@ -8,7 +8,7 @@ Check out the [web app](https://free-privacy-policy-generator.firebaseapp.com/)!
 [![GitHub stars](https://img.shields.io/github/stars/nisrulz/app-privacy-policy-generator.svg?style=social&label=Star)](https://github.com/Sanjay-Developer-Official/free-privacy-policy-generator) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/app-privacy-policy-generator.svg?style=social&label=Fork)](https://github.com/Sanjay-Developer-Official/free-privacy-policy-generator/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/app-privacy-policy-generator.svg?style=social&label=Watch)](https://github.com/Sanjay-Developer-Official/free-privacy-policy-generator) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/Sanjay-Developer-Official/free-privacy-policy-generator)  
 
 ## Web App Screenshot
-![screenshot](/img/sc1.jpg)
+![screenshot](/img/sc1.png)
 
 # Contributing more 3rd Party Service's Privacy links
 The webapp uses a JSON array to populate the list of 3rd party services section. If you want contribute a new 3rd party service for the section then open a Pull Request which simply adds a new JSON item to the JSON Array in [`public/js/thirdpartyservices.js`](public/js/thirdpartyservices.js)
