@@ -1,0 +1,614 @@
+[ 2019-04-03 16:14:25 ] files_iframe_info.xml NOT YET CREATED
+[ 2019-04-03 16:14:25 ] #################################################################
+[ 2019-04-03 16:14:25 ] ######################   SCRAPING STARTED  ######################
+[ 2019-04-03 16:14:25 ] #################################################################
+[ 2019-04-03 16:14:25 ] Create an empty xml file : files_count.xml
+[ 2019-04-03 16:14:25 ] set_files_count_xml() function
+[ 2019-04-03 16:14:25 ] increment +1
+[ 2019-04-03 16:14:25 ] key = 'scraping_reload' |  value = '1'
+[ 2019-04-03 16:14:25 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] demo email sent !!!
+[ 2019-04-03 16:14:26 ] Number of running request for this user : 1
+[ 2019-04-03 16:14:26 ] Limit of running request by bulk user : 7
+[ 2019-04-03 16:14:26 ] -------------------------------------------
+[ 2019-04-03 16:14:26 ]  Reading From 'report_to_create_file.txt' 
+[ 2019-04-03 16:14:26 ] -------------------------------------------
+[ 2019-04-03 16:14:26 ] err_msg = file not Exist !!!
+[ 2019-04-03 16:14:26 ] -------------------------------------------
+[ 2019-04-03 16:14:26 ] Front Page is Complete = No
+[ 2019-04-03 16:14:26 ] -------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:26 ] scraping_front_page() Function ...
+[ 2019-04-03 16:14:26 ] archive_url_origine = https://app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] Scraping of front page ( test number 1/3 )
+[ 2019-04-03 16:14:26 ] ---------------------------------------
+[ 2019-04-03 16:14:26 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:26 ] ---------------------------------------
+[ 2019-04-03 16:14:26 ] TEST 1
+[ 2019-04-03 16:14:26 ] URL = https://app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:26 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:23.0) Gecko/20131011 Firefox/23.0
+[ 2019-04-03 16:14:26 ] set_files_count_xml() function
+[ 2019-04-03 16:14:26 ] key = 'final_archive_url' |  value = 'https://app-privacy-policy-generator.firebaseapp.com/'
+[ 2019-04-03 16:14:26 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] Final Archive URL = https://app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] -------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:26 ] Create front page row in 'to_create_arr' table
+[ 2019-04-03 16:14:26 ] set_files_count_xml() function
+[ 2019-04-03 16:14:26 ] key = 'html_total' |  value = '1'
+[ 2019-04-03 16:14:26 ] key = 'html_done' |  value = '0'
+[ 2019-04-03 16:14:26 ] key = 'total_size' |  value = '12'
+[ 2019-04-03 16:14:26 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-04-03 16:14:26 ] Archive url = https://app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] Website url = app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] No www url = app-privacy-policy-generator.firebaseapp.com
+[ 2019-04-03 16:14:26 ] Main Domain = firebaseapp.com
+[ 2019-04-03 16:14:26 ] full archive url = https://app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] archive url = https://app-privacy-policy-generator.firebaseapp.com/
+[ 2019-04-03 16:14:26 ] subdomain = app-privacy-policy-generator
+[ 2019-04-03 16:14:26 ] type( demo or live ) = demo
+[ 2019-04-03 16:14:26 ] max_level = 6
+[ 2019-04-03 16:14:26 ] main folder = app-privacy-policy-generator.firebaseapp.com_sureshsanjay805_gmail.com_cccwsv4r006
+[ 2019-04-03 16:14:26 ] email = sureshsanjay805@gmail.com
+[ 2019-04-03 16:14:26 ] scrape_html_then_files_in_front_page = Yes
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] Download PDF = 0
+[ 2019-04-03 16:14:26 ] file_path_index = 
+[ 2019-04-03 16:14:26 ] file_path_without_ext_index = 
+[ 2019-04-03 16:14:26 ] strings_to_replace = 
+[ 2019-04-03 16:14:26 ] remove_broken_outbound_links = 1
+[ 2019-04-03 16:14:26 ] redirect_all_404_to_frontpage = No
+[ 2019-04-03 16:14:26 ] force_work_in_local = Yes
+[ 2019-04-03 16:14:26 ] skip_fix_encoding = Yes
+[ 2019-04-03 16:14:26 ] Use Proxy after first scraping fail = Yes
+[ 2019-04-03 16:14:26 ] scraping_reload number = 1
+[ 2019-04-03 16:14:26 ] max_pages_demo = 10
+[ 2019-04-03 16:14:26 ] max_size_demo = 10000
+[ 2019-04-03 16:14:26 ] ------------------------------------------------------------------
+[ 2019-04-03 16:14:26 ] set_files_count_xml() function
+[ 2019-04-03 16:14:26 ] key = 'html_total' |  value = '1'
+[ 2019-04-03 16:14:26 ] key = 'html_done' |  value = '0'
+[ 2019-04-03 16:14:26 ] key = 'total_size' |  value = '16'
+[ 2019-04-03 16:14:26 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-04-03 16:14:26 ] 'index.html' Exist in 'to_create_arr' in the first row ( Completed : No )
+[ 2019-04-03 16:14:26 ] Scraping duration not calculated because front page not created yet
+[ 2019-04-03 16:14:26 ] index.html -> File name found in to_create_arr
+[ 2019-04-03 16:14:26 ] #####################################################################################################
+[ 2019-04-03 16:14:26 ] ###############https://app-privacy-policy-generator.firebaseapp.com/ ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2019-04-03 16:14:26 ] ###############Local URL = index.html (code = 200) ###############
+[ 2019-04-03 16:14:26 ] ###############This is front page###############
+[ 2019-04-03 16:14:26 ] ###############Try number = 1###############
+[ 2019-04-03 16:14:26 ] #####################################################################################################
+[ 2019-04-03 16:14:26 ]  Main level =0
+[ 2019-04-03 16:14:26 ] HTML already scraped ( it's probably a front page )
+[ 2019-04-03 16:14:26 ] Original encoding = UTF-8
+[ 2019-04-03 16:14:26 ] Original encoding is in probably UTF-8= true
+[ 2019-04-03 16:14:26 ] ----------------------------------------
+[ 2019-04-03 16:14:26 ] Not checking the encoding
+[ 2019-04-03 16:14:26 ] Final encoding = UTF-8
+[ 2019-04-03 16:14:26 ] Language = N/A
+[ 2019-04-03 16:14:26 ] set_files_count_xml() function
+[ 2019-04-03 16:14:26 ] key = 'is_pretty_url' |  value = 'false'
+[ 2019-04-03 16:14:26 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] replace frontpage => Replace 'https://app-privacy-policy-generator.firebaseapp.com/' with 'index.html'
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://github.com/nisrulz/app-privacy-policy-generator - [( 1/10 )]
+[ 2019-04-03 16:14:26 ] href = https://github.com/nisrulz/app-privacy-policy-generator ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://privacypolicytemplate.net - [( 2/10 )]
+[ 2019-04-03 16:14:26 ] href = https://privacypolicytemplate.net ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://github.com/nisrulz - [( 3/10 )]
+[ 2019-04-03 16:14:26 ] href = https://github.com/nisrulz ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://www.twitter.com/nisrulz - [( 4/10 )]
+[ 2019-04-03 16:14:26 ] href = https://www.twitter.com/nisrulz ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://medium.com/@nisrulz - [( 5/10 )]
+[ 2019-04-03 16:14:26 ] href = https://medium.com/@nisrulz ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://in.linkedin.com/in/nisrulz - [( 6/10 )]
+[ 2019-04-03 16:14:26 ] href = https://in.linkedin.com/in/nisrulz ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://twitter.com/ali_muzaffar - [( 7/10 )]
+[ 2019-04-03 16:14:26 ] href = https://twitter.com/ali_muzaffar ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://medium.com/@ali.muzaffar/did-you-get-one-of-these-google-play-developer-policy-violation-emails-6c529ceb082d - [( 8/10 )]
+[ 2019-04-03 16:14:26 ] href = https://medium.com/@ali.muzaffar/did-you-get-one-of-these-google-play-developer-policy-violation-emails-6c529ceb082d ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = https://github.com/nisrulz/app-privacy-policy-generator/issues - [( 9/10 )]
+[ 2019-04-03 16:14:26 ] href = https://github.com/nisrulz/app-privacy-policy-generator/issues ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] ###############################################################
+[ 2019-04-03 16:14:26 ] Original Href = http://www.nisrulz.com/ - [( 10/10 )]
+[ 2019-04-03 16:14:26 ] href = http://www.nisrulz.com/ ( is_internal_url = No )
+[ 2019-04-03 16:14:26 ] local_file_path not created yet = index.html
+[ 2019-04-03 16:14:26 ] code = 200
+[ 2019-04-03 16:14:26 ] index.html -> Front page created
+[ 2019-04-03 16:14:26 ] set_files_count_xml() function
+[ 2019-04-03 16:14:26 ] key = 'html_total' |  value = '1'
+[ 2019-04-03 16:14:26 ] key = 'html_done' |  value = '1'
+[ 2019-04-03 16:14:26 ] key = 'total_size' |  value = '52'
+[ 2019-04-03 16:14:26 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-04-03 16:14:26 ] index.html ( Front page ) : index.html already created so now I need to scrape all extensions and update the index.html file
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-03 16:14:26 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] We still update 'index.html'
+[ 2019-04-03 16:14:26 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] /*******		Extract 'fonts_from_html' files		**********/
+[ 2019-04-03 16:14:26 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] We still update 'index.html'
+[ 2019-04-03 16:14:26 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] /*******		Extract 'css' files		**********/
+[ 2019-04-03 16:14:26 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] We still update 'index.html'
+[ 2019-04-03 16:14:26 ] file url = https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.indigo-blue.min.css
+[ 2019-04-03 16:14:26 ] ---------------------------------------
+[ 2019-04-03 16:14:26 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:26 ] ---------------------------------------
+[ 2019-04-03 16:14:26 ] TEST 1
+[ 2019-04-03 16:14:26 ] URL = https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.indigo-blue.min.css
+[ 2019-04-03 16:14:26 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:26 ] useragent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-03 16:14:26 ] /*******		From    'ajax/libs/material-design-lite/1-3-0/material.indigo-blue.min.css'      **********/
+[ 2019-04-03 16:14:26 ] /*******		folder_path    'ajax/libs/material-design-lite/1-3-0/'      **********/
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] We still update 'index.html'
+[ 2019-04-03 16:14:26 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-04-03 16:14:26 ] /*******		From    'ajax/libs/material-design-lite/1-3-0/material.indigo-blue.min.css'      **********/
+[ 2019-04-03 16:14:26 ] /*******		folder_path    'ajax/libs/material-design-lite/1-3-0/'      **********/
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] We still update 'index.html'
+[ 2019-04-03 16:14:26 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-03 16:14:26 ] /*******		From    'ajax/libs/material-design-lite/1-3-0/material.indigo-blue.min.css'      **********/
+[ 2019-04-03 16:14:26 ] /*******		folder_path    'ajax/libs/material-design-lite/1-3-0/img'      **********/
+[ 2019-04-03 16:14:26 ] /**************************************************************/
+[ 2019-04-03 16:14:26 ] We still update 'index.html'
+[ 2019-04-03 16:14:26 ] count of background images 2
+[ 2019-04-03 16:14:26 ] href_1 =>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmVyc2lvbj0iMS4xIgogICB2aWV3Qm94PSIwIDAgMSAxIgogICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0iY2xpcCI+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Ik0gMCwwIDAsMSAxLDEgMSwwIDAsMCB6IE0gMC44NTM0Mzc1LDAuMTY3MTg3NSAwLjk1OTY4NzUsMC4yNzMxMjUgMC40MjkzNzUsMC44MDM0Mzc1IDAuMzIzMTI1LDAuOTA5Njg3NSAwLjIxNzE4NzUsMC44MDM0Mzc1IDAuMDQwMzEyNSwwLjYyNjg3NSAwLjE0NjU2MjUsMC41MjA2MjUgMC4zMjMxMjUsMC42OTc1IDAuODUzNDM3NSwwLjE2NzE4NzUgeiIKICAgICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZSIgLz4KICAgIDwvY2xpcFBhdGg+CiAgICA8bWFzayBpZD0ibWFzayIgbWFza1VuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgbWFza0NvbnRlbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giPgogICAgICA8cGF0aAogICAgICAgICBkPSJNIDAsMCAwLDEgMSwxIDEsMCAwLDAgeiBNIDAuODUzNDM3NSwwLjE2NzE4NzUgMC45NTk2ODc1LDAuMjczMTI1IDAuNDI5Mzc1LDAuODAzNDM3NSAwLjMyMzEyNSwwLjkwOTY4NzUgMC4yMTcxODc1LDAuODAzNDM3NSAwLjA0MDMxMjUsMC42MjY4NzUgMC4xNDY1NjI1LDAuNTIwNjI1IDAuMzIzMTI1LDAuNjk3NSAwLjg1MzQzNzUsMC4xNjcxODc1IHoiCiAgICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmUiIC8+CiAgICA8L21hc2s+CiAgPC9kZWZzPgogIDxyZWN0CiAgICAgd2lkdGg9IjEiCiAgICAgaGVpZ2h0PSIxIgogICAgIHg9IjAiCiAgICAgeT0iMCIKICAgICBjbGlwLXBhdGg9InVybCgjY2xpcCkiCiAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZSIgLz4KPC9zdmc+Cg==
+[ 2019-04-03 16:14:26 ] href_1 =>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmVyc2lvbj0iMS4xIgogICB2aWV3Qm94PSIwIDAgMSAxIgogICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0iY2xpcCI+CiAgICAgIDxwYXRoCiAgICAgICAgIGQ9Ik0gMCwwIDAsMSAxLDEgMSwwIDAsMCB6IE0gMC44NTM0Mzc1LDAuMTY3MTg3NSAwLjk1OTY4NzUsMC4yNzMxMjUgMC40MjkzNzUsMC44MDM0Mzc1IDAuMzIzMTI1LDAuOTA5Njg3NSAwLjIxNzE4NzUsMC44MDM0Mzc1IDAuMDQwMzEyNSwwLjYyNjg3NSAwLjE0NjU2MjUsMC41MjA2MjUgMC4zMjMxMjUsMC42OTc1IDAuODUzNDM3NSwwLjE2NzE4NzUgeiIKICAgICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZSIgLz4KICAgIDwvY2xpcFBhdGg+CiAgICA8bWFzayBpZD0ibWFzayIgbWFza1VuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgbWFza0NvbnRlbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giPgogICAgICA8cGF0aAogICAgICAgICBkPSJNIDAsMCAwLDEgMSwxIDEsMCAwLDAgeiBNIDAuODUzNDM3NSwwLjE2NzE4NzUgMC45NTk2ODc1LDAuMjczMTI1IDAuNDI5Mzc1LDAuODAzNDM3NSAwLjMyMzEyNSwwLjkwOTY4NzUgMC4yMTcxODc1LDAuODAzNDM3NSAwLjA0MDMxMjUsMC42MjY4NzUgMC4xNDY1NjI1LDAuNTIwNjI1IDAuMzIzMTI1LDAuNjk3NSAwLjg1MzQzNzUsMC4xNjcxODc1IHoiCiAgICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmUiIC8+CiAgICA8L21hc2s+CiAgPC9kZWZzPgogIDxyZWN0CiAgICAgd2lkdGg9IjEiCiAgICAgaGVpZ2h0PSIxIgogICAgIHg9IjAiCiAgICAgeT0iMCIKICAgICBjbGlwLXBhdGg9InVybCgjY2xpcCkiCiAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZSIgLz4KPC9zdmc+Cg==
+[ 2019-04-03 16:14:26 ] href_1 =>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmVyc2lvbj0iMS4xIgogICB2aWV3Qm94PSIwIDAgMSAxIgogICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij4KICA8cGF0aAogICAgIGQ9Ik0gMC4wNDAzODA1OSwwLjYyNjc3NjcgMC4xNDY0NDY2MSwwLjUyMDcxMDY4IDAuNDI5Mjg5MzIsMC44MDM1NTMzOSAwLjMyMzIyMzMsMC45MDk2MTk0MSB6IE0gMC4yMTcxNTcyOSwwLjgwMzU1MzM5IDAuODUzNTUzMzksMC4xNjcxNTcyOSAwLjk1OTYxOTQxLDAuMjczMjIzMyAwLjMyMzIyMzMsMC45MDk2MTk0MSB6IgogICAgIGlkPSJyZWN0Mzc4MCIKICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lIiAvPgo8L3N2Zz4K
+[ 2019-04-03 16:14:26 ] href_1 =>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmVyc2lvbj0iMS4xIgogICB2aWV3Qm94PSIwIDAgMSAxIgogICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij4KICA8cGF0aAogICAgIGQ9Ik0gMC4wNDAzODA1OSwwLjYyNjc3NjcgMC4xNDY0NDY2MSwwLjUyMDcxMDY4IDAuNDI5Mjg5MzIsMC44MDM1NTMzOSAwLjMyMzIyMzMsMC45MDk2MTk0MSB6IE0gMC4yMTcxNTcyOSwwLjgwMzU1MzM5IDAuODUzNTUzMzksMC4xNjcxNTcyOSAwLjk1OTYxOTQxLDAuMjczMjIzMyAwLjMyMzIyMzMsMC45MDk2MTk0MSB6IgogICAgIGlkPSJyZWN0Mzc4MCIKICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lIiAvPgo8L3N2Zz4K
+[ 2019-04-03 16:14:26 ] href_1 =>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjEyIiBoZWlnaHQ9IjQiIHZpZXdQb3J0PSIwIDAgMTIgNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxlbGxpcHNlIGN4PSIyIiBjeT0iMiIgcng9IjIiIHJ5PSIyIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiBmcm9tPSIyIiB0bz0iLTEwIiBkdXI9IjAuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvZWxsaXBzZT4KICA8ZWxsaXBzZSBjeD0iMTQiIGN5PSIyIiByeD0iMiIgcnk9IjIiIGNsYXNzPSJsb2FkZXIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIGZyb209IjE0IiB0bz0iMiIgZHVyPSIwLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2VsbGlwc2U+Cjwvc3ZnPgo=
+[ 2019-04-03 16:14:26 ] href_1 =>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjEyIiBoZWlnaHQ9IjQiIHZpZXdQb3J0PSIwIDAgMTIgNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxlbGxpcHNlIGN4PSIyIiBjeT0iMiIgcng9IjIiIHJ5PSIyIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiBmcm9tPSIyIiB0bz0iLTEwIiBkdXI9IjAuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvZWxsaXBzZT4KICA8ZWxsaXBzZSBjeD0iMTQiIGN5PSIyIiByeD0iMiIgcnk9IjIiIGNsYXNzPSJsb2FkZXIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIGZyb209IjE0IiB0bz0iMiIgZHVyPSIwLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2VsbGlwc2U+Cjwvc3ZnPgo=
+[ 2019-04-03 16:14:26 ] /*******		End : Extract background_images files		**********/
+[ 2019-04-03 16:14:26 ] 
+[ 2019-04-03 16:14:26 ] ajax/libs/material-design-lite/1-3-0 --> Folder Created !!!
+[ 2019-04-03 16:14:26 ] ajax/libs/material-design-lite/1-3-0/material.indigo-blue.min.css --> File Created !!!
+[ 2019-04-03 16:14:26 ] set_files_count_xml() function
+[ 2019-04-03 16:14:26 ] increment +1
+[ 2019-04-03 16:14:26 ] key = 'css' |  value = '1'
+[ 2019-04-03 16:14:26 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:26 ] local_file_path_rel = ajax/libs/material-design-lite/1-3-0/material.indigo-blue.min.css (Exist = Yes)
+[ 2019-04-03 16:14:26 ] index.html : REPLACE 'https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.indigo-blue.min.css' WITH 'ajax/libs/material-design-lite/1-3-0/material.indigo-blue.min.css'
+[ 2019-04-03 16:14:26 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:26 ] folder_path = 
+[ 2019-04-03 16:14:26 ] Page updated = index.html
+[ 2019-04-03 16:14:26 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:26 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:26 ] file url = https://app-privacy-policy-generator.firebaseapp.com/styles.css
+[ 2019-04-03 16:14:26 ] ---------------------------------------
+[ 2019-04-03 16:14:26 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:26 ] ---------------------------------------
+[ 2019-04-03 16:14:26 ] TEST 1
+[ 2019-04-03 16:14:26 ] URL = https://app-privacy-policy-generator.firebaseapp.com/styles.css
+[ 2019-04-03 16:14:26 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:27 ] useragent = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] /**************************************************************/
+[ 2019-04-03 16:14:27 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-03 16:14:27 ] /*******		From    'styles.css'      **********/
+[ 2019-04-03 16:14:27 ] /**************************************************************/
+[ 2019-04-03 16:14:27 ] We still update 'index.html'
+[ 2019-04-03 16:14:27 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] /**************************************************************/
+[ 2019-04-03 16:14:27 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-04-03 16:14:27 ] /*******		From    'styles.css'      **********/
+[ 2019-04-03 16:14:27 ] /**************************************************************/
+[ 2019-04-03 16:14:27 ] We still update 'index.html'
+[ 2019-04-03 16:14:27 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] 
+[ 2019-04-03 16:14:27 ] /**************************************************************/
+[ 2019-04-03 16:14:27 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-03 16:14:27 ] /*******		From    'styles.css'      **********/
+[ 2019-04-03 16:14:27 ] /*******		folder_path    'img'      **********/
+[ 2019-04-03 16:14:27 ] /**************************************************************/
+[ 2019-04-03 16:14:27 ] We still update 'index.html'
+[ 2019-04-03 16:14:27 ] count of background images 2
+[ 2019-04-03 16:14:27 ] href_1 =>data:image/svg+xml,%3Csvg width='304' height='304' viewBox='0 0 304 304' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M44.1 224c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H0v-2h44.1zm160 48c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H82v-2h122.1zm57.8-46c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H304v2h-42.1zm0 16c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H304v2h-42.1zm6.2-114c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4h-86.2c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4h86.2zm-256-48c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H0v-2h12.1zm185.8 34c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4h86.2c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4h-86.2zM258 12.1c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9V0h2v12.1zm-64 208c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9v-54.2c-2.282-.463-4-2.48-4-4.9 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.42-1.718 4.437-4 4.9v54.2zm48-198.2c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9V82h64v-2h-62V21.9zm16 16c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9V66h48v-2h-46V37.9zm-128 96c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9V210h16v10.1c-2.282.463-4 2.48-4 4.9 0 2.76 2.24 5 5 5s5-2.24 5-5c0-2.42-1.718-4.437-4-4.9V208h-16v-74.1zm-5.9-21.9c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H114v48H85.9c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H112v-48h12.1zm-6.2 130c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H176v-74.1c-2.282-.463-4-2.48-4-4.9 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.42-1.718 4.437-4 4.9V242h-60.1zm-16-64c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H114v48h10.1c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H112v-48h-10.1zM66 284.1c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9V274H50v30h-2v-32h18v12.1zM236.1 176c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H274v44.1c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9V146h-10.1zm-64 96c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H208v-80h16v-14h-42.1c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H226v18h-16v80h-12.1zm86.2-210c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H272V0h2v32h10.1zM98 101.9c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9V144H53.9c-.463-2.282-2.48-4-4.9-4-2.76 0-5 2.24-5 5s2.24 5 5 5c2.42 0 4.437-1.718 4.9-4H98v-44.1zM53.9 34c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H80V0h2v34H53.9zm60.1 3.9c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9V64H80v64H69.9c-.463-2.282-2.48-4-4.9-4-2.76 0-5 2.24-5 5s2.24 5 5 5c2.42 0 4.437-1.718 4.9-4H82V66h32V37.9zM101.9 82c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H128V37.9c-2.282-.463-4-2.48-4-4.9 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.42-1.718 4.437-4 4.9V82h-28.1zm16-64c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H146v44.1c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9V18h-26.1zm102.2 270c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H98v14h-2v-16h124.1zM242 149.9c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9V162h16v30h-16v66h48v46h2v-48h-48v-62h16v-34h-16v-10.1zM53.9 18c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H64V2H48V0h18v18H53.9zm112 32c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H192V0h50v2h-48v48h-28.1zm-48-48c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5 0-.342.034-.677.1-1h2.07c-.11.313-.17.65-.17 1 0 1.657 1.343 3 3 3s3-1.343 3-3c0-.35-.06-.687-.17-1H178v34h-18V21.9c-2.282-.463-4-2.48-4-4.9 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.42-1.718 4.437-4 4.9V32h14V2h-58.1zm0 96c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H137l32-32h39V21.9c-2.282-.463-4-2.48-4-4.9 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.42-1.718 4.437-4 4.9V66h-40.172l-32 32H117.9zm28.1 90.1c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9v-76.513L175.586 80H224V21.9c-2.282-.463-4-2.48-4-4.9 0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.42-1.718 4.437-4 4.9V82h-49.586L146 112.414V188.1zm16 32c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9v-99.513L184.586 96H300.1c.398-1.96 1.94-3.502 3.9-3.9v2.07c-1.165.413-2 1.524-2 2.83s.835 2.417 2 2.83v2.07c-1.96-.398-3.502-1.94-3.9-3.9H185.414L162 121.414V220.1zm-144-64c2.282.463 4 2.48 4 4.9 0 2.76-2.24 5-5 5s-5-2.24-5-5c0-2.42 1.718-4.437 4-4.9v-3.513l48-48V48h32V0h2v50H66v55.413l-48 48v2.687zM50 53.9c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9v42.686l-48 48V210h28.1c.463 2.282 2.48 4 4.9 4 2.76 0 5-2.24 5-5s-2.24-5-5-5c-2.42 0-4.437 1.718-4.9 4H2v-62.586l48-48V53.9zm-16 16c2.282-.463 4-2.48 4-4.9 0-2.76-2.24-5-5-5s-5 2.24-5 5c0 2.42 1.718 4.437 4 4.9v18.686l-32 32v2.828l34-34V69.9zM12.1 32c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H9.414L0 43.414v-2.828L8.586 32H12.1zm265.8 18c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4h18.686L304 40.586v2.828L297.414 50H277.9zm-16 160c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H288V136.587l16-16v2.827l-14 14V210h-28.1zm-208 32c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H64v-22.586L40.586 194H21.9c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4h19.513L66 216.586V242H53.9zm150.2 14c.463-2.282 2.48-4 4.9-4 2.76 0 5 2.24 5 5s-2.24 5-5 5c-2.42 0-4.437-1.718-4.9-4H96v-56.598L56.598 162H37.9c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4h19.502L98 200.598V256h106.1zm-150.2 2c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4H80v-46.586L48.586 178H21.9c-.463 2.282-2.48 4-4.9 4-2.76 0-5-2.24-5-5s2.24-5 5-5c2.42 0 4.437 1.718 4.9 4h27.513L82 208.586V258H53.9zM97 100c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-48 32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm32 48c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm32-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0-32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm32 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16-64c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 96c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-144c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-96 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm96 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16-64c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-32 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM49 36c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-32 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm32 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM33 68c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-48c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 240c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16-64c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16-32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm80-176c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm32 48c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0-32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm112 176c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm-16 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM17 180c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0 16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm0-32c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16 0c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM17 84c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm32 64c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm16-16c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 39.793V0h-2v40.586L8.586 64H0v2h9.413L34 41.414v-1.62zM2 300.1V258h14v46h2v-48H0V302.17c.313-.11.65-.17 1-.17 1.306 0 2.417.835 2.83 2H5.9c-.398-1.96-1.94-3.502-3.9-3.9zM34 241v63h-2v-62H0v-2h34v1zM17 18h1V0h-2v16H0v2h17zm273-2V0h-2v18h16v-2h-14zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1c.323-.066.658-.1 1-.1 2.76 0 5 2.24 5 5s-2.24 5-5 5c-.342 0-.677-.034-1-.1v-2.07c.313.11.65.17 1 .17 1.657 0 3-1.343 3-3s-1.343-3-3-3c-.35 0-.687.06-1 .17V92.1zM80 272h2v32h-2v-32zm37.9 32c-.463-2.282-2.48-4-4.9-4-2.42 0-4.437 1.718-4.9 4h2.07c.413-1.165 1.524-2 2.83-2s2.417.835 2.83 2h2.07zM5.9 0c.066.323.1.658.1 1 0 2.76-2.24 5-5 5-.342 0-.677-.034-1-.1V3.83C.313 3.94.65 4 1 4c1.657 0 3-1.343 3-3 0-.35-.06-.687-.17-1H5.9zm294.2 0c-.066.323-.1.658-.1 1 0 2.42 1.718 4.437 4 4.9V3.83c-1.165-.413-2-1.524-2-2.83 0-.35.06-.687.17-1h-2.07zm3.9 300.1c-1.96.398-3.502 1.94-3.9 3.9h2.07c.302-.852.978-1.528 1.83-1.83v-2.07z' fill='%23b2e0ff' fill-opacity='0.15' fill-rule='evenodd'/%3E%3C/svg%3E
+[ 2019-04-03 16:14:33 ] /*******		End : Extract background_images files		**********/
+[ 2019-04-03 16:14:33 ] 
+[ 2019-04-03 16:14:33 ] styles.css --> File Created !!!
+[ 2019-04-03 16:14:33 ] set_files_count_xml() function
+[ 2019-04-03 16:14:33 ] increment +1
+[ 2019-04-03 16:14:33 ] key = 'css' |  value = '2'
+[ 2019-04-03 16:14:33 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:33 ] local_file_path_rel = styles.css (Exist = Yes)
+[ 2019-04-03 16:14:33 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:33 ] folder_path = 
+[ 2019-04-03 16:14:33 ] Page updated = index.html
+[ 2019-04-03 16:14:33 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:33 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:33 ] /*******		End : Extract css files		**********/
+[ 2019-04-03 16:14:33 ] 
+[ 2019-04-03 16:14:33 ] 
+[ 2019-04-03 16:14:33 ] 
+[ 2019-04-03 16:14:33 ] /**************************************************************/
+[ 2019-04-03 16:14:33 ] /*******		Extract 'img' files		**********/
+[ 2019-04-03 16:14:33 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:33 ] /**************************************************************/
+[ 2019-04-03 16:14:33 ] We still update 'index.html'
+[ 2019-04-03 16:14:33 ] file url = https://app-privacy-policy-generator.firebaseapp.com/images/github.svg
+[ 2019-04-03 16:14:33 ] ---------------------------------------
+[ 2019-04-03 16:14:33 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:33 ] ---------------------------------------
+[ 2019-04-03 16:14:33 ] TEST 1
+[ 2019-04-03 16:14:33 ] URL = https://app-privacy-policy-generator.firebaseapp.com/images/github.svg
+[ 2019-04-03 16:14:33 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:33 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; it-it) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-03 16:14:33 ] images --> Folder Created !!!
+[ 2019-04-03 16:14:33 ] images/github.svg --> File Created !!!
+[ 2019-04-03 16:14:33 ] set_files_count_xml() function
+[ 2019-04-03 16:14:33 ] increment +1
+[ 2019-04-03 16:14:33 ] key = 'img' |  value = '1'
+[ 2019-04-03 16:14:33 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:33 ] local_file_path_rel = images/github.svg (Exist = Yes)
+[ 2019-04-03 16:14:33 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:33 ] folder_path = 
+[ 2019-04-03 16:14:33 ] Page updated = index.html
+[ 2019-04-03 16:14:33 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:33 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:33 ] file url = https://app-privacy-policy-generator.firebaseapp.com/images/heart.png
+[ 2019-04-03 16:14:33 ] ---------------------------------------
+[ 2019-04-03 16:14:33 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:33 ] ---------------------------------------
+[ 2019-04-03 16:14:33 ] TEST 1
+[ 2019-04-03 16:14:33 ] URL = https://app-privacy-policy-generator.firebaseapp.com/images/heart.png
+[ 2019-04-03 16:14:33 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:33 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-04-03 16:14:33 ] images/heart.png --> File Created !!!
+[ 2019-04-03 16:14:33 ] set_files_count_xml() function
+[ 2019-04-03 16:14:33 ] increment +1
+[ 2019-04-03 16:14:33 ] key = 'img' |  value = '2'
+[ 2019-04-03 16:14:33 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:33 ] local_file_path_rel = images/heart.png (Exist = Yes)
+[ 2019-04-03 16:14:33 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:33 ] folder_path = 
+[ 2019-04-03 16:14:33 ] Page updated = index.html
+[ 2019-04-03 16:14:33 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:33 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:33 ] file url = https://app-privacy-policy-generator.firebaseapp.com/images/android-desktop.png
+[ 2019-04-03 16:14:33 ] ---------------------------------------
+[ 2019-04-03 16:14:33 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:33 ] ---------------------------------------
+[ 2019-04-03 16:14:33 ] TEST 1
+[ 2019-04-03 16:14:33 ] URL = https://app-privacy-policy-generator.firebaseapp.com/images/android-desktop.png
+[ 2019-04-03 16:14:33 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:34 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+[ 2019-04-03 16:14:34 ] images/android-desktop.png --> File Created !!!
+[ 2019-04-03 16:14:34 ] set_files_count_xml() function
+[ 2019-04-03 16:14:34 ] increment +1
+[ 2019-04-03 16:14:34 ] key = 'img' |  value = '3'
+[ 2019-04-03 16:14:34 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:34 ] local_file_path_rel = images/android-desktop.png (Exist = Yes)
+[ 2019-04-03 16:14:34 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:34 ] folder_path = 
+[ 2019-04-03 16:14:34 ] Page updated = index.html
+[ 2019-04-03 16:14:34 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:34 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:34 ] file url = https://app-privacy-policy-generator.firebaseapp.com/images/ios-desktop.png
+[ 2019-04-03 16:14:34 ] ---------------------------------------
+[ 2019-04-03 16:14:34 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:34 ] ---------------------------------------
+[ 2019-04-03 16:14:34 ] TEST 1
+[ 2019-04-03 16:14:34 ] URL = https://app-privacy-policy-generator.firebaseapp.com/images/ios-desktop.png
+[ 2019-04-03 16:14:34 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:34 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0.1 Iceweasel/15.0.1
+[ 2019-04-03 16:14:34 ] images/ios-desktop.png --> File Created !!!
+[ 2019-04-03 16:14:34 ] set_files_count_xml() function
+[ 2019-04-03 16:14:34 ] increment +1
+[ 2019-04-03 16:14:34 ] key = 'img' |  value = '4'
+[ 2019-04-03 16:14:34 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:34 ] local_file_path_rel = images/ios-desktop.png (Exist = Yes)
+[ 2019-04-03 16:14:34 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:34 ] folder_path = 
+[ 2019-04-03 16:14:34 ] Page updated = index.html
+[ 2019-04-03 16:14:34 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:34 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:34 ] file url = https://app-privacy-policy-generator.firebaseapp.com/images/favicon.ico
+[ 2019-04-03 16:14:34 ] ---------------------------------------
+[ 2019-04-03 16:14:34 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:34 ] ---------------------------------------
+[ 2019-04-03 16:14:34 ] TEST 1
+[ 2019-04-03 16:14:34 ] URL = https://app-privacy-policy-generator.firebaseapp.com/images/favicon.ico
+[ 2019-04-03 16:14:34 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:34 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; sv-se) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-03 16:14:34 ] images/favicon.ico --> File Created !!!
+[ 2019-04-03 16:14:34 ] set_files_count_xml() function
+[ 2019-04-03 16:14:34 ] increment +1
+[ 2019-04-03 16:14:34 ] key = 'img' |  value = '5'
+[ 2019-04-03 16:14:34 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:34 ] local_file_path_rel = images/favicon.ico (Exist = Yes)
+[ 2019-04-03 16:14:34 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:34 ] folder_path = 
+[ 2019-04-03 16:14:34 ] Page updated = index.html
+[ 2019-04-03 16:14:34 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:34 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:34 ] /*******		End : Extract img files		**********/
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] /**************************************************************/
+[ 2019-04-03 16:14:34 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-03 16:14:34 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:34 ] /**************************************************************/
+[ 2019-04-03 16:14:34 ] We still update 'index.html'
+[ 2019-04-03 16:14:34 ] count of background images 2
+[ 2019-04-03 16:14:34 ] /*******		End : Extract background_images files		**********/
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] /**************************************************************/
+[ 2019-04-03 16:14:34 ] /*******		Extract 'background_images_in_html' files		**********/
+[ 2019-04-03 16:14:34 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:34 ] /**************************************************************/
+[ 2019-04-03 16:14:34 ] We still update 'index.html'
+[ 2019-04-03 16:14:34 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] 
+[ 2019-04-03 16:14:34 ] /**************************************************************/
+[ 2019-04-03 16:14:34 ] /*******		Extract 'script' files		**********/
+[ 2019-04-03 16:14:34 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:34 ] /**************************************************************/
+[ 2019-04-03 16:14:34 ] We still update 'index.html'
+[ 2019-04-03 16:14:34 ] file url = https://www.googletagmanager.com/gtag/js?id=UA-53824796-8
+[ 2019-04-03 16:14:34 ] ---------------------------------------
+[ 2019-04-03 16:14:34 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:34 ] ---------------------------------------
+[ 2019-04-03 16:14:34 ] TEST 1
+[ 2019-04-03 16:14:34 ] URL = https://www.googletagmanager.com/gtag/js?id=UA-53824796-8
+[ 2019-04-03 16:14:34 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)
+[ 2019-04-03 16:14:35 ] gtag --> Folder Created !!!
+[ 2019-04-03 16:14:35 ] gtag/js_id_UA-53824796-8.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '1'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = gtag/js_id_UA-53824796-8.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] index.html : REPLACE 'https://www.googletagmanager.com/gtag/js?id=UA-53824796-8' WITH 'gtag/js_id_UA-53824796-8.js'
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.min.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.min.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+[ 2019-04-03 16:14:35 ] ajax/libs/material-design-lite/1-3-0/material.min.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '2'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = ajax/libs/material-design-lite/1-3-0/material.min.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] index.html : REPLACE 'https://cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.min.js' WITH 'ajax/libs/material-design-lite/1-3-0/material.min.js'
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-04-03 16:14:35 ] ajax/libs/vue/2-5-17 --> Folder Created !!!
+[ 2019-04-03 16:14:35 ] ajax/libs/vue/2-5-17/vue.min.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '3'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = ajax/libs/vue/2-5-17/vue.min.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] index.html : REPLACE 'https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js' WITH 'ajax/libs/vue/2-5-17/vue.min.js'
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://cdn.jsdelivr.net/npm/vue2-filters@0.3.0/dist/vue2-filters.min.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://cdn.jsdelivr.net/npm/vue2-filters@0.3.0/dist/vue2-filters.min.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+[ 2019-04-03 16:14:35 ] npm/vue2-filters_0-3-0/dist --> Folder Created !!!
+[ 2019-04-03 16:14:35 ] npm/vue2-filters_0-3-0/dist/vue2-filters.min.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '4'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = npm/vue2-filters_0-3-0/dist/vue2-filters.min.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] index.html : REPLACE 'https://cdn.jsdelivr.net/npm/vue2-filters@0.3.0/dist/vue2-filters.min.js' WITH 'npm/vue2-filters_0-3-0/dist/vue2-filters.min.js'
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+[ 2019-04-03 16:14:35 ] ajax/libs/clipboard-js/1-6-0 --> Folder Created !!!
+[ 2019-04-03 16:14:35 ] ajax/libs/clipboard-js/1-6-0/clipboard.min.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '5'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = ajax/libs/clipboard-js/1-6-0/clipboard.min.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] index.html : REPLACE 'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js' WITH 'ajax/libs/clipboard-js/1-6-0/clipboard.min.js'
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://cdnjs.cloudflare.com/ajax/libs/to-markdown/3.1.1/to-markdown.min.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://cdnjs.cloudflare.com/ajax/libs/to-markdown/3.1.1/to-markdown.min.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130401 Firefox/21.0
+[ 2019-04-03 16:14:35 ] ajax/libs/to-markdown/3-1-1 --> Folder Created !!!
+[ 2019-04-03 16:14:35 ] ajax/libs/to-markdown/3-1-1/to-markdown.min.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '6'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = ajax/libs/to-markdown/3-1-1/to-markdown.min.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] index.html : REPLACE 'https://cdnjs.cloudflare.com/ajax/libs/to-markdown/3.1.1/to-markdown.min.js' WITH 'ajax/libs/to-markdown/3-1-1/to-markdown.min.js'
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://app-privacy-policy-generator.firebaseapp.com/js/thirdpartyservices.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://app-privacy-policy-generator.firebaseapp.com/js/thirdpartyservices.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)
+[ 2019-04-03 16:14:35 ] js --> Folder Created !!!
+[ 2019-04-03 16:14:35 ] js/thirdpartyservices.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '7'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = js/thirdpartyservices.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://app-privacy-policy-generator.firebaseapp.com/js/utils.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://app-privacy-policy-generator.firebaseapp.com/js/utils.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:35 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-04-03 16:14:35 ] js/utils.js --> File Created !!!
+[ 2019-04-03 16:14:35 ] set_files_count_xml() function
+[ 2019-04-03 16:14:35 ] increment +1
+[ 2019-04-03 16:14:35 ] key = 'js' |  value = '8'
+[ 2019-04-03 16:14:35 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:35 ] local_file_path_rel = js/utils.js (Exist = Yes)
+[ 2019-04-03 16:14:35 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:35 ] folder_path = 
+[ 2019-04-03 16:14:35 ] Page updated = index.html
+[ 2019-04-03 16:14:35 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:35 ] file url = https://app-privacy-policy-generator.firebaseapp.com/js/main.js
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] get_curl_live() function : Start
+[ 2019-04-03 16:14:35 ] ---------------------------------------
+[ 2019-04-03 16:14:35 ] TEST 1
+[ 2019-04-03 16:14:35 ] URL = https://app-privacy-policy-generator.firebaseapp.com/js/main.js
+[ 2019-04-03 16:14:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-03 16:14:36 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-04-03 16:14:36 ] js/main.js --> File Created !!!
+[ 2019-04-03 16:14:36 ] set_files_count_xml() function
+[ 2019-04-03 16:14:36 ] increment +1
+[ 2019-04-03 16:14:36 ] key = 'js' |  value = '9'
+[ 2019-04-03 16:14:36 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:36 ] local_file_path_rel = js/main.js (Exist = Yes)
+[ 2019-04-03 16:14:36 ] update_html_file_path = index.html
+[ 2019-04-03 16:14:36 ] folder_path = 
+[ 2019-04-03 16:14:36 ] Page updated = index.html
+[ 2019-04-03 16:14:36 ] index.html ( Front page ) : update index.html
+[ 2019-04-03 16:14:36 ] -------------------------------------------------------------------------------------------
+[ 2019-04-03 16:14:36 ] /*******		End : Extract script files		**********/
+[ 2019-04-03 16:14:36 ] 
+[ 2019-04-03 16:14:36 ] 
+[ 2019-04-03 16:14:36 ] 
+[ 2019-04-03 16:14:36 ] /**************************************************************/
+[ 2019-04-03 16:14:36 ] /*******		Extract 'swf' files		**********/
+[ 2019-04-03 16:14:36 ] /*******		From    'index.html'      **********/
+[ 2019-04-03 16:14:36 ] /**************************************************************/
+[ 2019-04-03 16:14:36 ] We still update 'index.html'
+[ 2019-04-03 16:14:36 ] /*******		End : Extract swf files		**********/
+[ 2019-04-03 16:14:36 ] 
+[ 2019-04-03 16:14:36 ] index.html --> HTML File Created !!!
+[ 2019-04-03 16:14:36 ] ----------------------------------------------------------------------
+[ 2019-04-03 16:14:36 ] update  to_create_arr[0][is_done] = 1
+[ 2019-04-03 16:14:36 ] set_files_count_xml() function
+[ 2019-04-03 16:14:36 ] key = 'html_total' |  value = '1'
+[ 2019-04-03 16:14:36 ] key = 'html_done' |  value = '1'
+[ 2019-04-03 16:14:36 ] key = 'total_size' |  value = '580'
+[ 2019-04-03 16:14:36 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:36 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-04-03 16:14:36 ] create_zip_file_and_send_email() function
+[ 2019-04-03 16:14:36 ] set_files_count_xml() function
+[ 2019-04-03 16:14:36 ] key = 'html_total' |  value = '1'
+[ 2019-04-03 16:14:36 ] key = 'html_done' |  value = '1'
+[ 2019-04-03 16:14:36 ] key = 'total_size' |  value = '580'
+[ 2019-04-03 16:14:36 ] ----------------------------------------------------------
+[ 2019-04-03 16:14:36 ] ( 1 / 1 )  Done - 0 error pages fixed
+[ 2019-04-03 16:14:36 ] Total Size : 580
+[ 2019-04-03 16:14:36 ] files/demo/app-privacy-policy-generator.firebaseapp.com_sureshsanjay805_gmail.com_cccwsv4r006_backup.zip ZIP Created !!!
+[ 2019-04-03 16:14:36 ] Error occured when sending email !!!
+[ 2019-04-03 16:14:36 ] Final demo email sent!
+[ 2019-04-03 16:14:36 ] Loading Time = 00:00:12
