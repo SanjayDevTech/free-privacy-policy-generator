@@ -43,7 +43,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
   1. Have fun!
 
 ## Author & Support
-This project was created by [Nishant Srivastava](https://github.com/Sanjay-Developer-Official/) but hopefully developed and maintained by many others. See the [the list of contributors here](https://github.com/nisrulz/app-privacy-policy-generator/graphs/contributors).
+This project was created by [Sanjay Developer](https://github.com/Sanjay-Developer-Official/) but hopefully developed and maintained by many others. See the [the list of contributors here](https://github.com/Sanjay-Developer-Official/free-privacy-policy-generator/graphs/contributors).
 
 > If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal:
 >  + [PayPal](https://www.paypal.me/azpay123/5usd)
@@ -54,7 +54,7 @@ This project was created by [Nishant Srivastava](https://github.com/Sanjay-Devel
 License
 =======
 
-    Copyright 2017 Nishant Srivastava
+    Copyright 2019 Sanjay Developer
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
